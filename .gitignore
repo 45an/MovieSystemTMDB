@@ -15,6 +15,7 @@ test-results/
 **/obj/*
 .vs/
 app.config
+appsettings.json
 
 
 # Mac bundle stuff
