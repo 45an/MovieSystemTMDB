@@ -15,7 +15,7 @@ test-results/
 **/obj/*
 .vs/
 app.config
-appsettings.json
+
 
 
 # Mac bundle stuff
@@ -24,7 +24,7 @@ appsettings.json
 
 appsettings.json
 appsettings.Development.json
-appsettings.json
+
 
 # content below from: https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
 # General
