@@ -12,7 +12,7 @@ tarballs/
 test-results/
 
 **/bin/*
-**/obj/*
+**/obj/*  
 .vs/
 app.config
 appsettings.Development.json
